@@ -164,7 +164,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Data files
-data/raw/*
+#data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
@@ -176,3 +176,5 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+dvc_storage/
