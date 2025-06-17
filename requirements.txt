@@ -3,3 +3,7 @@ matplotlib
 seaborn
 scipy
 numpy
+scikit-learn
+xgboost
+shap
+lime
